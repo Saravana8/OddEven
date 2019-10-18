@@ -10,7 +10,7 @@ public class OddEven {
 				System.out.println(sum);//notes
 			    sum=sum+i;
 			}
-			    
+			System.out.println(sum);	    
 	}
 
 }
