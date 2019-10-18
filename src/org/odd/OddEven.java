@@ -10,8 +10,9 @@ public class OddEven {
 				System.out.println(sum);//notes
 			    sum=sum+i;
 			}
+			System.out.println(sum);	
 			System.out.println("Odd Numbers");
-			System.out.println("Even Numbers");
+			System.out.println("Even Numbers");	    
 	}
 
 }
